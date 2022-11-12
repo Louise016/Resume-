@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  margin: 0px;
+  border-style: solid;
+  border-color: #eb4034;
+  border-width: 3px;
+  border-color: #eb347a 2px ridge;
+  border-color: #64e8bc #cc8af2
+  padding: 20px;
+  margin: 50px 2px 100px 200px;
+
+}
+
+  
+
+
+header{
+  font-family:Arial, Helvetica, sans-serif;
+  letter-spacing: 3px;
+}
+
+h1{
+  margin:0px;
+  text-transform: uppercase;
+}
+
+h3{
+text-align: center;
+}
+
+.pink{
+  color:#f542b9 ;
+}
+
+#Extra{
+  background-color:#f54269;
+  color: #42e3f5;
+}
